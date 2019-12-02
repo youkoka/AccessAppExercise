@@ -7,7 +7,6 @@ use_frameworks!
 def awesome_pods
     pod 'Alamofire'
     pod 'SDWebImage', '~> 5.0'
-    pod 'PKHUD', '~> 5.0'
 end
 
 target 'Awesome' do
